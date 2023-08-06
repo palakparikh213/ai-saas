@@ -59,7 +59,7 @@ const ConversationPage = () => {
         <div>
             <Heading 
                 title='Conversation'
-                description='Our most advanced conversation model'
+                description='Have a conversation with the OpenAI Converstion Model'
                 icon={MessageSquare}
                 iconColor="text-violet-500"
                 bgColor='bg-violet-500/10'
